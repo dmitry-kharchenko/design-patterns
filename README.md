@@ -1,1 +1,2 @@
-# test1
+#Design patterns in this repo:
+ * Abstract Factory
